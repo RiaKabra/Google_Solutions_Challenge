@@ -1,0 +1,16 @@
+pycache/
+*.py[cod]
+*.so
+.env
+.env.*
+.venv/
+venv/
+.env.local
+*.env
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.sqlite3
+*.db
+*.pkl
